@@ -8,7 +8,7 @@ export const resumeData = {
     linkedin: "https://www.linkedin.com/in/akshita-guptaa",
     github: "https://github.com/akshita-guptaa/",
     resume: "/Akshita Gupta Resume.pdf",
-    photo: "photo.jpeg",
+    photo: "/photo.jpeg",
   },
   experience: [
     {
