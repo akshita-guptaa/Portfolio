@@ -17,8 +17,8 @@ export const resumeData = {
       dates: "May 2026 - July 2026",
       location: "Ahmedabad, India",
       bullets: [
-        "Designed core TC/TM assignment logic across multiple signal types with automated pairing/grouping and pin-allocation rules.",
-        "Integrated an LLM-assisted alias-generation step and a database parity-verification module."
+        "Built PAHAL, a full-stack web app (FastAPI, MySQL, HTML/CSS/JS) automating TC/TM card-pin and IP-address assignment for satellite payload testing, replacing a manual, spreadsheet-driven workflow.",
+        "Integrated an LLM-assisted alias-generation step and a database parity-verification module flagging matched, conflicting, and new records."
       ],
     },
     {
