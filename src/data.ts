@@ -22,6 +22,16 @@ export const resumeData = {
       ],
     },
     {
+      company: "DevForge",
+      role: "Treasurer",
+      dates: "June 2025 - Present",
+      location: "Manipal University Jaipur",
+      bullets: [
+        "Directed financial strategy for a 40+ member technical club.",
+        "Re-architected reimbursement and payment workflows, reducing processing time by 50% and improving financial record accuracy.",
+      ],
+    },
+    {
       company: "ELYSIUM 2.0 - IEEE WIE MUJ",
       role: "Director",
       dates: "December 2025 - February 2026",
