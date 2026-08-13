@@ -71,6 +71,7 @@ export const resumeData = {
       "React",
       "Node.js",
       "Express.js",
+      "FastAPI",
     ],
     Databases: ["MySQL", "MongoDB"],
     "Machine Learning": ["Scikit-learn","Pandas","NumPy", "Model Evaluation", "Data Analysis"],
