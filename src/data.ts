@@ -24,7 +24,7 @@ export const resumeData = {
     {
       company: "DevForge",
       role: "Treasurer",
-      dates: "June 2025 - Present",
+      dates: "June 2025 - April 2026",
       location: "Manipal University Jaipur",
       bullets: [
         "Directed financial strategy for a 40+ member technical club.",
