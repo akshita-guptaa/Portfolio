@@ -2,7 +2,7 @@ export const resumeData = {
   basics: {
     name: "Akshita Gupta",
     label: "Computer Science Student (Data Science)",
-    subLabel: "C/C++ • DSA • Web Development | Treasurer @DevForge ",
+    subLabel: "Ex-Intern @ ISRO SAC | Full-Stack Developer  ",
     email: "akshitaa.guptaaa@gmail.com",
     location: "India",
     linkedin: "https://www.linkedin.com/in/akshita-guptaa",
