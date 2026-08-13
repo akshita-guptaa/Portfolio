@@ -20,7 +20,7 @@ export const resumeData = {
         "Designed core TC/TM assignment logic across multiple signal types with automated pairing/grouping and pin-allocation rules.",
         "Integrated an LLM-assisted alias-generation step and a database parity-verification module."
       ],
-    }
+    },
     {
       company: "ELYSIUM 2.0 - IEEE WIE MUJ",
       role: "Director",
