@@ -11,16 +11,6 @@ export const resumeData = {
     photo: "/photo.jpeg",
   },
   experience: [
-    // {
-    //   company: "DevForge",
-    //   role: "Treasurer",
-    //   dates: "June 2025 - Present",
-    //   location: "Manipal University Jaipur",
-    //   bullets: [
-    //     "Directed financial strategy for a 40+ member technical club.",
-    //     "Re-architected reimbursement and payment workflows, reducing processing time by 50% and improving financial record accuracy.",
-    //   ],
-    // },
     {
       company: "Space Applications Centre (ISRO)",
       role: "Intern - Payload Checkout and Test Division",
